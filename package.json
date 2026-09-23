@@ -1,0 +1,17 @@
+{
+  "name": "fadehost-giveaway-bot",
+  "version": "1.0.0",
+  "description": "Giveaways with a button to enter, timed endings, winner picks and rerolls. Hosted by FadeHost.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  },
+  "license": "MIT"
+}
