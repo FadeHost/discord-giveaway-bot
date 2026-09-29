@@ -1,5 +1,7 @@
 # FadeHost Giveaway Bot
 
+[![Deploy to FadeHost](https://fadehost.com/deploy-button.svg)](https://laplace.fadehost.com/register?intent=bot&repo=https://github.com/FadeHost/discord-giveaway-bot)
+
 Giveaways your members enter with one button. It ends on time (even across a restart), picks the winners, and can pick again.
 
 ## Setup on FadeHost
